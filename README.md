@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pashlene</h1>
-<h3 align="center">A passionate Mathematician from sunny Durban,South Africa</h3>
+<h3 align="center">A passionate Physicist from sunny Durban,South Africa</h3>
 
 ![hangover-math](https://github.com/PashleneNaidoo/PashleneNaidoo/assets/97886229/4b669a11-31a9-4094-90b9-fa46b83c10a6)
 
