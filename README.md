@@ -5,9 +5,9 @@
 
 - 💬 Ask me about *python *AI/ML *mathematics *physics
 
-- 📫 How to reach me **pashlenen@gmail.com**
+- 📫 Reach me at **pashlenen@gmail.com**
 
-- ⚡ Fun fact **extrovertly an introvert**
+- ⚡ Fun fact **I am an extroverted introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
