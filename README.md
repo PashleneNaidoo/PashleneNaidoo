@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pashlene</h1>
 <h3 align="center">A passionate Mathematician from sunny Durban,South Africa</h3>
 
-
-![hangover-math](https://github.com/PashleneNaidoo/PashleneNaidoo/assets/97886229/4b669a11-31a9-4094-90b9-fa46b83c10a6)
+<p align="center">
+  <img src="https://github.com/PashleneNaidoo/PashleneNaidoo/assets/97886229/4b669a11-31a9-4094-90b9-fa46b83c10a6" alt="Description of the GIF">
+</p>
 
 - 🔭 I’m currently working on **a research project using HEOM applied to IBQM devices**
 
