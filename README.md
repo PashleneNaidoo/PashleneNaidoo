@@ -5,7 +5,7 @@
   <img src="https://github.com/PashleneNaidoo/PashleneNaidoo/assets/97886229/4b669a11-31a9-4094-90b9-fa46b83c10a6" alt="Description of the GIF">
 </p>
 
-- 🔭 I’m currently working on **a research project using HEOM applied to IBQM devices**
+- 🔭 I’m currently working on **a research project using HEOM applied to IBMQ devices**
 
 - 💬 Ask me about *python *AI/ML *mathematics *physics
 
