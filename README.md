@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **pashlenen@gmail.com**
 
-- ⚡ Fun fact **I am an extroverted introvert**
+- ⚡ Fun fact **I sketch sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
